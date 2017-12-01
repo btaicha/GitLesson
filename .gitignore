@@ -1,0 +1,11 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# MAc
+.DS_Store
+
+#MAven
+log/
+target/

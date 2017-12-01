@@ -9,6 +9,8 @@ public class Car {
      *
      */
     private String color;
+	privtate String marque;
+	private String matricul;
 
     /**** @return car */
     public String getCar() {

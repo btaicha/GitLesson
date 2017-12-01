@@ -9,6 +9,7 @@ public class Car {
      *
      */
     private String color;
+private String marque;
 
     /**** @return car */
     public String getCar() {
